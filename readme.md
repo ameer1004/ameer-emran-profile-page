@@ -8,8 +8,9 @@
 * my career
 * my experience
 * The programming languages which I used in the project: HTML5, CSS3, JavaScript.
-* ways to communicate me
 * my skills
+* ways to communicate me
+
 
 
 # install

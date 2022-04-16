@@ -137,21 +137,7 @@ a:hover {
   font-size: 25px;
   direction: rtl;
   margin-right: 20px;
-}
-
-.form-section {
-  padding: 20px;
-}
-
-.form {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.name {
-  text-align: right;
-  background-color: white;
+  position: relative;
   margin-bottom: 5px;
 }
 
@@ -184,19 +170,9 @@ a:hover {
   font-weight: bolder;
 }
 
-.contact_page {
-  background-image: -webkit-radial-gradient(black, grey);
-}
-h2 {
-  color: white;
-  text-align: center;
-  font-size: 40px;
-  padding: 10px;
-}
-
-h3 {
-  color: white;
-  text-align: center;
-  font-size: 40px;
-  padding: 10px;
+span {
+  color: black;
+  font-weight: bolder;
+  background-color: gold;
+  position: relative;
 }
